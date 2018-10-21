@@ -1,0 +1,19 @@
+{
+  "name": "Test",
+  "description": "Test",
+  "version": "0.0.0",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "discord.js": "11.1.0",
+    "request": "2.81.0",
+    "queue": "4.5.0",
+    "simple-youtube-api": "5.0.2",
+    "youtube-info": "1.2.1",
+    "get-youtube-id": "1.0.0",
+    "ytdl-core": "0.26.1",
+    "node-opus":"0.3.0"
+  }
+}
